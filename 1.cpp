@@ -21,8 +21,3 @@ void push_left(Node ** head, int value){
         *head = a;
     }
 }
-
-int main(){
-    return 0;
-
-}
